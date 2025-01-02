@@ -27,3 +27,5 @@ The dashboard was designed to provide easy filters for gender, state, employment
 * Work-life balance rate of 3 is the most common among employees (625 out of 3000). <br />
 * Total training cost is $1,675,886. <br />
 * A large number of employees have not completed the training program (775 out of 3000). <br />
+# 📊 Dashboard:
+![Alt text](https://github.com/Ahmed-Kazlak/Employee-Data-Analysis-Power-BI/blob/main/Employees%20Data%20Analysis%20Dashboard.png)
